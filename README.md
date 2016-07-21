@@ -1,2 +1,12 @@
-# City-of-Seattle-Parks
-Directory Search for City of Seattle Parks
+# city-of-seattle-parks
+
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.15.1.
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
